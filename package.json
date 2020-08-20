@@ -27,7 +27,7 @@
     "@nestjs/passport": "6.1.1",
     "@nestjs/platform-express": "^6.0.0",
     "@types/sequelize": "^4.28.3",
-    "bcrypt": "3.0.7",
+    "bcrypt": "5.0.0",
     "body-parser": "1.19.0",
     "ccxt": "^1.22.39",
     "class-transformer": "0.2.3",
