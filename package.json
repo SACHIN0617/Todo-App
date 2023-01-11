@@ -31,7 +31,7 @@
     "body-parser": "1.19.0",
     "ccxt": "^1.22.39",
     "class-transformer": "0.2.3",
-    "class-validator": "0.11.0",
+    "class-validator": "0.14.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "passport": "^0.4.1",
